@@ -82,11 +82,17 @@ hr {
   margin-right: 30px;
 }
 
+.skills {
+display: flex;
+flex-direction: column;
+}
+
 .skill-row {
   width: 50%;
   margin: 90px auto;
   text-align: left;
   line-height: 2;
+  display: block;
 }
 
 .mark{
