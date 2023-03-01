@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently  learning react.js.
-- 🔭 I’m currently working eating disorder projct.
+- 🔭 I’m currently working on disorder eating projct.
 <!--
 **LanceLiang2011/LanceLiang2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
