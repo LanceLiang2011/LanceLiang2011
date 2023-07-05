@@ -48,7 +48,7 @@ I'm a Ph.D. holder in Physiology currently studying Health Science. I have a dee
 
 ## 🎯 Future Goals
 
-- 🌟 Working as a Frond-end / Full-stack developer.
+- 🌟 Working as a Front-end / Full-stack developer.
 - 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
 - 🤖 Build a project that demonstrates my knowledge of **AI** and **Web development**.
 
