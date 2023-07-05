@@ -67,6 +67,8 @@ I'm a Ph.D. holder in Physiology currently studying Health Science. I have a dee
 <div align = "center">
     
 [![Linkedin: Xianyi Liang](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xianyi-liang-a52672160/)](https://www.linkedin.com/in/xianyi-liang-a52672160/)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/YourUsername)](https://www.frontendmentor.io/profile/LanceLiang2011)&nbsp;
+
   
 </div>
 
@@ -91,6 +93,8 @@ I'm a Ph.D. holder in Physiology currently studying Health Science. I have a dee
 ![styled-components](https://img.shields.io/badge/-styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=for-the-badge&logo=Astro&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)&nbsp;
 </details>
 
 <details open>
@@ -125,8 +129,6 @@ I'm a Ph.D. holder in Physiology currently studying Health Science. I have a dee
 
 
 <br>
-
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
   
   
