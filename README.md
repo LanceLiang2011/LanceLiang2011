@@ -41,7 +41,7 @@ I'm a Ph.D. holder in Physiology currently studying Health Science. I have a dee
 
 ## 🏆 Goals
 
-- 📖 Learn advanced **JavaScript, Next.js, and C#** programming.
+- 📖 Learn advanced **JavaScript, TypeScript, Next.js, and C#** programming.
 - 🚀 Gain experience in developing full-stack applications using modern technologies.
 - 🌐 Improve my knowledge of web performance and accessibility standards.
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
