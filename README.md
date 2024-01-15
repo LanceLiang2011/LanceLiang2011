@@ -110,6 +110,7 @@ I'm a Ph.D. holder in Physiology currently working as a Fullstack Developer. I h
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LanceLiang2011&size_weight=0.5&count_weight=0.5&theme=dark'  align='left' />
 </div>
 
+<br>
   
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
