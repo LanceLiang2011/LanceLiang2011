@@ -74,7 +74,7 @@ I'm a Ph.D. holder in Physiology currently working as a Fullstack Developer. I h
 </details>
 
 <details open>
-<summary><b>💻 Software and Tools</b></summary>
+<summary><b>💻 Cloud and Tools</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
