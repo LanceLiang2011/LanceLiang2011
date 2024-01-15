@@ -2,14 +2,10 @@
 ![Banner-dark-mode](https://raw.githubusercontent.com/LanceLiang2011/LanceLiang2011/main/images/banner-dark.png#gh-dark-mode-only)
 ![Banner-light-mode](https://raw.githubusercontent.com/LanceLiang2011/LanceLiang2011/main/images/banner-light.png#gh-light-mode-only)
 
-<br>
-
 
 <p align="center">
 I'm a Ph.D. holder in Physiology currently working as a Fullstack Developer. I have a deep passion for web development and love facing new challenges. My goal is to develop scalable, user-friendly web applications that can have a real impact. I am constantly learning backend skills and improving my frontend skills.
 </p>
-
-##
 
 <br>
 
