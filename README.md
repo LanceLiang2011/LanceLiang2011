@@ -71,7 +71,6 @@ I'm a Ph.D. holder in Physiology currently working as a Fullstack Developer. I h
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-181717?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 </details>
 
 <details open>
