@@ -102,7 +102,6 @@ I'm a Ph.D. holder in Physiology currently studying Health Science. I have a dee
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=for-the-badge&logo=Astro&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)&nbsp;
 </details>
 
 <details open>
@@ -146,6 +145,7 @@ I'm a Ph.D. holder in Physiology currently studying Health Science. I have a dee
     
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)&nbsp;
 </details>
 
 </div>
