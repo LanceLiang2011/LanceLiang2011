@@ -18,8 +18,6 @@ I'm a Ph.D. holder in Physiology currently working as a Fullstack Developer. I h
 <div align = "center">
     
 [![Linkedin: Xianyi Liang](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xianyi-liang-a52672160/)](https://www.linkedin.com/in/xianyi-liang-a52672160/)
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/YourUsername)](https://www.frontendmentor.io/profile/LanceLiang2011)&nbsp;
-
   
 </div>
 
@@ -110,7 +108,3 @@ I'm a Ph.D. holder in Physiology currently working as a Fullstack Developer. I h
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LanceLiang2011&size_weight=0.5&count_weight=0.5&theme=dark'  align='left' />
 </div>
 
-<br>
-  
-  
-<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
