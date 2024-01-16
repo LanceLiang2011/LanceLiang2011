@@ -89,6 +89,7 @@ I'm a Ph.D. holder in Physiology currently working as a Fullstack Developer. I h
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)&nbsp;
+![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)&nbsp;
 </details>
 
 </div>
