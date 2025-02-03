@@ -7,6 +7,10 @@
 I'm a Ph.D. holder in Physiology currently working as a Fullstack Developer. I have a deep passion for web development and love facing new challenges. My goal is to develop scalable, user-friendly web applications that can have a real impact. I am constantly learning backend skills and improving my frontend skills.
 </p>
 
+<p align="center">
+🔗 Check out my recent work on my company GitHub: <a href="https://github.com/LanceXianyiLiang" target="_blank">LanceXianyiLiang</a>
+</p>
+
 
 <h2 align="center">📫 Connect with me</h2>
 
